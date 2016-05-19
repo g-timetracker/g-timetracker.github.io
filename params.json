@@ -1,0 +1,6 @@
+{
+  "name": "G-TimeTracker.GitHub.io",
+  "tagline": "G-TimeTracker website",
+  "body": "# Global Time Tracker\r\nG-TimeTracker is a simple and cloud-friendly open source time tracker.\r\n\r\n## Description\r\nGlobal Time Tracker is an application, that allows you to track, how you spent the time of your life.\r\n\r\nWith this software you can track you time using different categories, view statistics, search for records and view history for specific period.\r\n\r\nYou can also use it on several devices (currently, Android, Windows and Linux are supported) and synchronize between them. Moreover, you are not tied to the specific synchronization software - you can use any of them! Either it Dropbox, Google Drive or SyncThing - G-TimeTracker can work with it. Just select a folder, that is synchronized by any of cloud storage systems and all data would automatically synchronize between your devices.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
