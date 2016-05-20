@@ -1,0 +1,21 @@
+{
+    "name": "G-TimeTracker",
+
+    "windows": {
+        "i386": {
+            "version": "0.1",
+            "info_url": "https://github.com/g-timetracker/g-timetracker/releases/tag/v0.1"
+        }
+    },
+
+    "linux": {
+        "i386": {
+            "version": "0.1",
+            "info_url": "https://github.com/g-timetracker/g-timetracker/releases/tag/v0.1"
+        },
+        "x86_64": {
+            "version": "0.1",
+            "info_url": "https://github.com/g-timetracker/g-timetracker/releases/tag/v0.1"
+        }
+    }
+}
