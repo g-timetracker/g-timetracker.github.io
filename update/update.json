@@ -3,19 +3,19 @@
 
     "windows": {
         "i386": {
-            "version": "0.5.3",
-            "info_url": "https://github.com/g-timetracker/g-timetracker/releases/tag/v0.5.3"
+            "version": "0.5.4",
+            "info_url": "https://github.com/g-timetracker/g-timetracker/releases/tag/v0.5.4"
         }
     },
 
     "linux": {
         "i386": {
-            "version": "0.5.3",
-            "info_url": "https://github.com/g-timetracker/g-timetracker/releases/tag/v0.5.3"
+            "version": "0.5.4",
+            "info_url": "https://github.com/g-timetracker/g-timetracker/releases/tag/v0.5.4"
         },
         "x86_64": {
-            "version": "0.5.3",
-            "info_url": "https://github.com/g-timetracker/g-timetracker/releases/tag/v0.5.3"
+            "version": "0.5.4",
+            "info_url": "https://github.com/g-timetracker/g-timetracker/releases/tag/v0.5.4"
         }
     }
 }
